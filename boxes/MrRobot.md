@@ -372,7 +372,7 @@ cat password.raw-md5
 robot:c3fcd3d76192e4007dfb496cca67e13b
 ~~~
 
-As the file suggest it, it's at MD5 hashed password. Let's spawn [hashcat]
+As the file suggest it, it's at MD5 hashed password. Let's spawn [hashcat](https://www.kali.org/tools/hashcat/)
 
 ~~~
 $ hashcat64 c3fcd3d76192e4007dfb496cca67e13b
