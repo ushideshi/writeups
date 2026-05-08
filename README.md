@@ -21,10 +21,10 @@ The first boxes will be more like a step by step guide for completing it, for ne
 
 For every boxes, I won't print out the actual CTF, you'll have the joy of finding it out yourself.
 
-| Boxe    | Level |
-| :-------- | :-------: |
-| [VulnHub - Mr. Robot](boxes/MrRobot.md)  | Beginner - Intermediate    |
-| [VulnHub - Matrix1](boxes/Matrix1.md)  |  Intermediate    |
+| Boxe    | Level | Skills |
+| :-------- | :-------: | :-------- |
+| [VulnHub - Mr. Robot](boxes/MrRobot.md)  | Beginner - Intermediate    | PortScanning, Enumeration, Bruteforcing, Exploiting, Dehashing, Pivoting  | 
+| [VulnHub - Matrix1](boxes/Matrix1.md)  |  Intermediate    |  PortScanning, Enumeration, Deciphering, Scripting, Bruteforcing,  Pivoting  | 
 
 
 More writeups will be added, when my schedule allows it.
