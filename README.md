@@ -24,6 +24,7 @@ For every boxes, I won't print out the actual CTF, you'll have the joy of findin
 | Boxe    | Level |
 | :-------- | :-------: |
 | [VulnHub - Mr. Robot](boxes/MrRobot.md)  | Beginner - Intermediate    |
+| [VulnHub - Matrix1](boxes/Matrix1.md)  |  Intermediate    |
 
 
 More writeups will be added, when my schedule allows it.
