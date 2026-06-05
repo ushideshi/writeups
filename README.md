@@ -25,6 +25,7 @@ For every boxes, I won't print out the actual CTF, you'll have the joy of findin
 | :-------- | :-------: | :-------- |
 | [VulnHub - Mr. Robot](boxes/MrRobot.md)  | Beginner - Intermediate    | PortScanning, Enumeration, Bruteforcing, Exploiting, Dehashing, Pivoting  | 
 | [VulnHub - Matrix1](boxes/Matrix1.md)  |  Intermediate    |  PortScanning, Enumeration, Deciphering, Scripting, Bruteforcing,  Pivoting  | 
+| [VulnHub - Matrix2](boxes/Matrix2.md)  |  Intermediate    |  PortScanning, Enumeration, Deciphering, Scripting, Bruteforcing,  Pivoting, Path Traversal  | 
 
 
 More writeups will be added, when my schedule allows it.
